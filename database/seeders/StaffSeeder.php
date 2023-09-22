@@ -18,7 +18,7 @@ class StaffSeeder extends Seeder
     public function run()
     {
         User::create([
-            'role' => 'teller',
+            'role' => 'staff',
             'name' => fake()->name(),
             'email' => 'staff@admin.com',
             'email_verified_at' => now(),
