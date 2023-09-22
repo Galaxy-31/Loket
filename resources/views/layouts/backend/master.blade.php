@@ -22,7 +22,7 @@
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="logo">
                             <a href="/">
-                                <img src="{{ asset('assets/logo.png') }}" alt="Logo" srcset="" width="90">
+                                <!-- <img src="{{ asset('assets/logo.png') }}" alt="Logo" srcset="" width="90"> -->
                             </a>
                         </div>
                         <div class="theme-toggle d-flex gap-2  align-items-center mt-2">
@@ -120,11 +120,10 @@
             <footer>
                 <div class="footer clearfix mb-0 text-muted">
                     <div class="float-start">
-                        <p>2023 &copy; Siantri ID</p>
+                        <p>2023 &copy; Robust Creative Media</p>
                     </div>
                     <div class="float-end">
-                        <p>Crafted with <span class="text-danger"><i class="bi bi-heart me-1"></i></span>Ojan
-                            Development</p>
+                        <p>Crafted with <span class="text-danger"><i class="bi bi-heart me-1"></i></span>Robust</p>
                     </div>
                 </div>
             </footer>
