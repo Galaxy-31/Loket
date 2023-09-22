@@ -30,7 +30,7 @@
         <div class="container">
             <header>
                 <div class="d-flex justify-content-between">
-                    <img src="{{ asset('assets/logo.png') }}" width="200" alt="">
+                    <img src="{{ asset('assets/.png') }}" width="200" alt="">
                     <div class="jam">
                         <h3 id="clock">23:57:00</h3>
                         <p class="mb-0" id="day">Minggu, 16 April 2023</p>
@@ -87,7 +87,7 @@
                 <div class="d-flex">
                     <i class="fas fa-info-circle"></i>
                     <marquee direction="left">
-                        Selamat Datang di Layanan Terpadu Samsat Bersama, Untuk Hari ini kami buka hingga 17.00
+                    Robust
                     </marquee>
                 </div>
             </div>
